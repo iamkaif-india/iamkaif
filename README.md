@@ -1,5 +1,5 @@
 
-# Hi, I'm Mohammad Kaif 👋
+# Hi, I'm Mohammad Kaif
 
 Welcome to my GitHub profile!
 
@@ -29,4 +29,4 @@ I’m currently focused on improving my skills in web development, and I'm excit
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
-Thanks for visiting! 👨‍💻✨
+Thanks for visiting
